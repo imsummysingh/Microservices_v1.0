@@ -357,3 +357,4 @@ D:\Micorservices\Microservices_v1.0\MangoRestaurant\Mango.Web\bin\Debug\netcorea
 D:\Micorservices\Microservices_v1.0\MangoRestaurant\Mango.Web\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
 D:\Micorservices\Microservices_v1.0\MangoRestaurant\Mango.Web\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\Micorservices\Microservices_v1.0\MangoRestaurant\Mango.Web\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Micorservices\Microservices_v1.0\MangoRestaurant\Mango.Web\obj\Debug\netcoreapp3.1\Mango.Web.csproj.AssemblyReference.cache
