@@ -25,7 +25,6 @@ D:\Micorservices\Microservices_v1.0\MangoRestaurant\Mango.Services.ProductAPI\bi
 D:\Micorservices\Microservices_v1.0\MangoRestaurant\Mango.Services.ProductAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\Micorservices\Microservices_v1.0\MangoRestaurant\Mango.Services.ProductAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 D:\Micorservices\Microservices_v1.0\MangoRestaurant\Mango.Services.ProductAPI\obj\Debug\netcoreapp3.1\Mango.Services.ProductAPI.csproj.CopyComplete
-D:\Micorservices\Microservices_v1.0\MangoRestaurant\Mango.Services.ProductAPI\obj\Debug\netcoreapp3.1\Mango.Services.ProductAPI.csproj.AssemblyReference.cache
 D:\Micorservices\Microservices_v1.0\MangoRestaurant\Mango.Services.ProductAPI\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
 D:\Micorservices\Microservices_v1.0\MangoRestaurant\Mango.Services.ProductAPI\bin\Debug\netcoreapp3.1\System.Web.Http.dll
 D:\Micorservices\Microservices_v1.0\MangoRestaurant\Mango.Services.ProductAPI\bin\Debug\netcoreapp3.1\Swashbuckle.Core.dll
