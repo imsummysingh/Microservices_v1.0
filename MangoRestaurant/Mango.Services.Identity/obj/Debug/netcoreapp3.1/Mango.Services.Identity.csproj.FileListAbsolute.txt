@@ -405,3 +405,4 @@ D:\Micorservices\Microservices_v1.0\MangoRestaurant\Mango.Services.Identity\obj\
 D:\Micorservices\Microservices_v1.0\MangoRestaurant\Mango.Services.Identity\obj\Debug\netcoreapp3.1\Mango.Services.Identity.dll
 D:\Micorservices\Microservices_v1.0\MangoRestaurant\Mango.Services.Identity\obj\Debug\netcoreapp3.1\Mango.Services.Identity.pdb
 D:\Micorservices\Microservices_v1.0\MangoRestaurant\Mango.Services.Identity\obj\Debug\netcoreapp3.1\Mango.Services.Identity.genruntimeconfig.cache
+D:\Micorservices\Microservices_v1.0\MangoRestaurant\Mango.Services.Identity\obj\Debug\netcoreapp3.1\Mango.Services.Identity.csproj.AssemblyReference.cache

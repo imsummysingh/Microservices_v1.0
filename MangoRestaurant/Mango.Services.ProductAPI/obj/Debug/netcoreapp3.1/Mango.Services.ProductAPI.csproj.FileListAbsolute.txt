@@ -78,3 +78,4 @@ D:\Micorservices\Microservices_v1.0\MangoRestaurant\Mango.Services.ProductAPI\bi
 D:\Micorservices\Microservices_v1.0\MangoRestaurant\Mango.Services.ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
 D:\Micorservices\Microservices_v1.0\MangoRestaurant\Mango.Services.ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 D:\Micorservices\Microservices_v1.0\MangoRestaurant\Mango.Services.ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Micorservices\Microservices_v1.0\MangoRestaurant\Mango.Services.ProductAPI\obj\Debug\netcoreapp3.1\Mango.Services.ProductAPI.csproj.AssemblyReference.cache
