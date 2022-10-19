@@ -406,3 +406,5 @@ D:\Micorservices\Microservices_v1.0\MangoRestaurant\Mango.Services.Identity\obj\
 D:\Micorservices\Microservices_v1.0\MangoRestaurant\Mango.Services.Identity\obj\Debug\netcoreapp3.1\Mango.Services.Identity.pdb
 D:\Micorservices\Microservices_v1.0\MangoRestaurant\Mango.Services.Identity\obj\Debug\netcoreapp3.1\Mango.Services.Identity.genruntimeconfig.cache
 D:\Micorservices\Microservices_v1.0\MangoRestaurant\Mango.Services.Identity\obj\Debug\netcoreapp3.1\Mango.Services.Identity.csproj.AssemblyReference.cache
+D:\Micorservices\Microservices_v1.0\MangoRestaurant\Mango.Services.Identity\bin\Debug\netcoreapp3.1\keys\is-signing-key-4D7EDD3CB78A6B5842B7F01AAA5BC543.json
+D:\Micorservices\Microservices_v1.0\MangoRestaurant\Mango.Services.Identity\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
