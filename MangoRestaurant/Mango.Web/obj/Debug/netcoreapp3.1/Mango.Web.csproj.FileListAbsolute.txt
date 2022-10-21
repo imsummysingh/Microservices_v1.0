@@ -370,3 +370,4 @@ D:\Micorservices\Microservices_v1.0\MangoRestaurant\Mango.Web\bin\Debug\netcorea
 D:\Micorservices\Microservices_v1.0\MangoRestaurant\Mango.Web\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
 D:\Micorservices\Microservices_v1.0\MangoRestaurant\Mango.Web\obj\Debug\netcoreapp3.1\Mango.Web.csproj.AssemblyReference.cache
 D:\Micorservices\Microservices_v1.0\MangoRestaurant\Mango.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_loginPartial.cshtml.g.cs
+D:\Micorservices\Microservices_v1.0\MangoRestaurant\Mango.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
